@@ -37,8 +37,8 @@ sudo yum install -y aws-cli
 #AWS CLI 접속 키 부여
 cat <<EOF > ~/.aws/credentials
 [default]
-aws_access_key_id = AKIAXTORPK7KOJIXBUOD #키 넣으세요.
-aws_secret_access_key = 51ssGBvU6v4mOFxkqG0ep7eNH5kxLgHpzXKU9XgT #키 넣으세요.
+aws_access_key_id = #키 넣으세요.
+aws_secret_access_key = #키 넣으세요.
 EOF
 
 cat <<EOF > ~/.aws/config
